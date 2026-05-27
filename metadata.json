@@ -1,0 +1,6 @@
+{
+  "name": "KLYVO",
+  "description": "Geospatial Real Estate Platform for the Ecuadorian market",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

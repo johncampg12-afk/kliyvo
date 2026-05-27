@@ -1,0 +1,16 @@
+{
+  "name": "KLIYVO - Real Estate",
+  "short_name": "KLIYVO",
+  "description": "Geospatial Real Estate Platform for the Ecuadorian market",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0A0A0A",
+  "theme_color": "#CFFB01",
+  "icons": [
+    {
+      "src": "icon-192x192.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}

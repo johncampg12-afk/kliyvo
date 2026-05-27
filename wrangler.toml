@@ -1,0 +1,12 @@
+name = "kliyvo-real-estate"
+main = "dist/server.cjs"
+compatibility_date = "2024-05-26"
+
+[site]
+bucket = "./dist"
+
+[env.production]
+# Add R2 binding if using Cloudflare Workers directly
+[[env.production.r2_buckets]]
+binding = "KLIYVO_UPLOADS"
+bucket_name = "kliyvo-uploads-prod"
